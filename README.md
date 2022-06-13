@@ -1,4 +1,4 @@
-### **Cypress_sample**
+## **Cypress_sample**
 ======================================
 
 This project has been created in order to perform tests on Utrust sandbox environment.
@@ -12,7 +12,7 @@ The testing framework used is Cypress, JavaScript based
 - Clone the git repository to your computer
 ```
 git init
-git clone https://
+git clone https://github.com/vladzoican/Cypress_sample.git
 ```
 - Open Visual Studio Code or any IDE supporting JavaScript
 
